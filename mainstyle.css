@@ -32,7 +32,7 @@ body
     }
 footer
     {
-        position: static;
+        position: absolute;
         bottom: 0%;
         color: #a2e5fa;
     }
